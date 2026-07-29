@@ -22,4 +22,4 @@ This repository serves as a personal coding archive and daily progress tracker. 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/python-practice-projects.git](https://github.com/YOUR_USERNAME/python-practice-projects.git)
+   git clone [https://github.com/Ishant1821/python-practice-projects.git](https://github.com/Ishant1821/python-practice-projects.git)
