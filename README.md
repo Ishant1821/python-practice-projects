@@ -15,7 +15,7 @@ This repository serves as a personal coding archive and daily progress tracker. 
 | # | Project Name | Description | Key Topics |
 |---|---|---|---|
 | 01 | [`01-simple-calculator`](./01-simple-calculator) | Command-line calculator supporting basic arithmetic operations | Input handling, conditional logic (`if-elif`) |
-
+| 02 | [`02-loop-control-statements`](./02-loop-control-statements) | Demonstration of Python control flow keywords | `break`, `continue`, `pass`, loops |
 ---
 
 ## 🛠️ How to Run Any Script Locally
