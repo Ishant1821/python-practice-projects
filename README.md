@@ -15,7 +15,7 @@ This repository serves as a personal coding archive and daily progress tracker. 
 | # | Project Name | Description | Key Topics |
 |---|---|---|---|
 | 01 | [`01-simple-calculator`](./01-simple-calculator) | Command-line calculator supporting basic arithmetic operations | Input handling, conditional logic (`if-elif`) |
-| 02 | [`02-loop-control-statements`](./02-loop-control-statements) | Demonstration of Python control flow keywords | `break`, `continue`, `pass`, loops |
+| 02 | [`02-Example-of-loop`](./02-Example-of-loop) | Demonstration of Python control flow keywords | `break`, `continue`, `pass`, loops |
 | 03 | [`03-fizzbuzz-variation`](./03-fizzbuzz-variation) | Custom FizzBuzz algorithm with modulo logic | Modulo (`%`), logical AND, condition precedence |
 ---
 
