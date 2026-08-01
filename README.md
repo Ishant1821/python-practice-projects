@@ -17,6 +17,7 @@ This repository serves as a personal coding archive and daily progress tracker. 
 | 01 | [`01-simple-calculator`](./01-simple-calculator) | Command-line calculator supporting basic arithmetic operations | Input handling, conditional logic (`if-elif`) |
 | 02 | [`02-Example-of-loop`](./02-Example-of-loop) | Demonstration of Python control flow keywords | `break`, `continue`, `pass`, loops |
 | 03 | [`03-fizzbuzz-variation`](./03-fizzbuzz-variation) | Custom FizzBuzz algorithm with modulo logic | Modulo (`%`), logical AND, condition precedence |
+| 04 | [`04-number-guessing-game`](./04-number-guessing-game) | Interactive guessing game with randomized target numbers | `random.randint()`, `while` loops, input validation |
 ---
 
 ## 🛠️ How to Run Any Script Locally
