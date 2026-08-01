@@ -18,6 +18,7 @@ This repository serves as a personal coding archive and daily progress tracker. 
 | 02 | [`02-Example-of-loop`](./02-Example-of-loop) | Demonstration of Python control flow keywords | `break`, `continue`, `pass`, loops |
 | 03 | [`03-fizzbuzz-variation`](./03-fizzbuzz-variation) | Custom FizzBuzz algorithm with modulo logic | Modulo (`%`), logical AND, condition precedence |
 | 04 | [`04-number-guessing-game`](./04-number-guessing-game) | Interactive guessing game with randomized target numbers | `random.randint()`, `while` loops, input validation |
+| 05 | [`05-todo-list-manager`](./05-todo-list-manager) | Interactive task manager supporting CRUD operations | Lists, `.append()`, `enumerate()`, `.pop()` |
 ---
 
 ## 🛠️ How to Run Any Script Locally
