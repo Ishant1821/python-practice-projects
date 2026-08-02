@@ -19,6 +19,7 @@ This repository serves as a personal coding archive and daily progress tracker. 
 | 03 | [`03-fizzbuzz-variation`](./03-fizzbuzz-variation) | Custom FizzBuzz algorithm with modulo logic | Modulo (`%`), logical AND, condition precedence |
 | 04 | [`04-number-guessing-game`](./04-number-guessing-game) | Interactive guessing game with randomized target numbers | `random.randint()`, `while` loops, input validation |
 | 05 | [`05-todo-list-manager`](./05-todo-list-manager) | Interactive task manager supporting CRUD operations | Lists, `.append()`, `enumerate()`, `.pop()` |
+| 06 | [`06-text-analyzer`](./06-text-analyzer) | Text processing utility for word/character metrics and frequencies | Dictionaries, string methods (`.split()`, `.replace()`) |
 ---
 
 ## 🛠️ How to Run Any Script Locally
